@@ -1,0 +1,20 @@
+<html> 
+   <head> 
+      <title>Interest Calculator form</title>
+      </head>
+          <body>
+      <h1>Simple Interest : @ViewBag.Cal</h1>
+      <form method="post" action="/Calculation/Compute">
+      <br>Principle : </br>
+      <input type="text" name="principle" required />
+      <br>Period : </br>
+      <input type="text" name="period" required />
+      <br>Rate : </br>
+      <input type="text" name="rate" required />
+      <br>
+      <input type="submit" value="Submit"/>
+      </br>
+      </body>
+  </form>
+
+</html> 
