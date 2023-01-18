@@ -1,0 +1,15 @@
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\bin\Debug\net6.0\Demoapp.exe
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\bin\Debug\net6.0\Demoapp.deps.json
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\bin\Debug\net6.0\Demoapp.runtimeconfig.json
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\bin\Debug\net6.0\Demoapp.dll
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\bin\Debug\net6.0\Demoapp.pdb
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.csproj.AssemblyReference.cache
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.AssemblyInfoInputs.cache
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.AssemblyInfo.cs
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.dll
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\refint\Demoapp.dll
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.pdb
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\Demoapp.genruntimeconfig.cache
+D:\ASSIGNMENT\Dot_Assignment_7\Demoapp\obj\Debug\net6.0\ref\Demoapp.dll
