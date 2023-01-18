@@ -1,0 +1,15 @@
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.csproj.AssemblyReference.cache
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfoInputs.cache
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfo.cs
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\bin\Debug\net6.0\Hospital.exe
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\bin\Debug\net6.0\Hospital.deps.json
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\bin\Debug\net6.0\Hospital.runtimeconfig.json
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\bin\Debug\net6.0\Hospital.dll
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\bin\Debug\net6.0\Hospital.pdb
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.dll
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\refint\Hospital.dll
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.pdb
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\Hospital.genruntimeconfig.cache
+D:\ASSIGNMENT\Dot_Assignment_3\Hospital\obj\Debug\net6.0\ref\Hospital.dll
